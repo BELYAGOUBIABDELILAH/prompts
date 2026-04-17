@@ -21,16 +21,6 @@ This repository is **fully automated**. Every day, a backend n8n workflow proces
 **You change it to:**
 > I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the **Senior React Developer** position.
 
----
-
-## ⚙️ How It Works (The Automation)
-
-For the automation nerds, here is how this repo runs entirely on autopilot:
-1. **Database:** Prompts are collected in a Google Sheet.
-2. **Orchestration:** An `n8n` cron job triggers daily.
-3. **AI Pipeline:** Unposted rows are sent to `Google Gemini`, which analyzes the prompt context to generate a Title, Emoji, and Category.
-4. **Formatting:** `n8n` compiles the AI responses into structured Markdown, complete with auto-generated anchor links.
-5. **Deployment:** Pushed directly to GitHub via API.
 
 ---
 *Maintained by BELYAGOUBI ABDELILAH*
