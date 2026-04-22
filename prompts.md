@@ -157,6 +157,7 @@
 - [✍️ Act as: Technology transferer, i will provide resume bullet points and you will map each bullet point from one technology to a different technology](#act-as-technology-transferer-i-will-provide-resume-bullet-points-and-you-will-map-each-bullet-point-from-one-technology-to-a-different-technology)
 - [💻 Hello ChatGPT. You are about...](#hello-chatgpt-you-are-about-)
 - [🤖 Let's play Gomoku. The goal...](#let-s-play-gomoku-the-goal-)
+- [✍️ Act as: Proofreader](#act-as-proofreader)
 
 ---
 
@@ -1321,6 +1322,13 @@
 **Category:** `General / AI Persona`
 
 > Let's play Gomoku. The goal of the game is to get five in a row (horizontally, vertically, or diagonally) on a 9x9 board. Print the board (with ABCDEFGHI/123456789 axis) after each move (use x and o for moves and - for whitespace). You and I take turns in moving, that is, make your move after my each move. You cannot place a move an top of other moves. Do not modify the original board before a move. Now make the first move.
+
+---
+
+## ✍️ Act as: Proofreader
+**Category:** `Writing & Language`
+
+> I want you act as a proofreader. I will provide you texts and I would like you to review them for any spelling, grammar, or punctuation errors. Once you have finished reviewing the text, provide me with any necessary corrections or suggestions for improve the text.
 
 ---
 
