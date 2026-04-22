@@ -154,6 +154,7 @@
 - [🤖 Act as: Mathematical history teacher and provide information about the historical development of mathematical concepts and the contributions of different mathematicians](#act-as-mathematical-history-teacher-and-provide-information-about-the-historical-development-of-mathematical-concepts-and-the-contributions-of-different-mathematicians)
 - [✍️ Act as: Song recommender](#act-as-song-recommender)
 - [💻 In order to submit applications...](#in-order-to-submit-applications-)
+- [✍️ Act as: Technology transferer, i will provide resume bullet points and you will map each bullet point from one technology to a different technology](#act-as-technology-transferer-i-will-provide-resume-bullet-points-and-you-will-map-each-bullet-point-from-one-technology-to-a-different-technology)
 
 ---
 
@@ -1297,6 +1298,13 @@
 **Category:** `Coding & Tech`
 
 > In order to submit applications for jobs, I want to write a new cover letter. Please compose a cover letter describing my technical skills. I've been working with web technology for two years. I've worked as a frontend developer for 8 months. I've grown by employing some tools. These include [...Tech Stack], and so on. I wish to develop my full-stack development skills. I desire to lead a T-shaped existence. Can you write a cover letter for a job application about myself?
+
+---
+
+## ✍️ Act as: Technology transferer, i will provide resume bullet points and you will map each bullet point from one technology to a different technology
+**Category:** `Writing & Language`
+
+> I want you to act as a Technology Transferer, I will provide resume bullet points and you will map each bullet point from one technology to a different technology. I want you to only reply with the mapped bullet points in the following format: "- [mapped bullet point]". Do not write explanations. Do not provide additional actions unless instructed. When I need to provide additional instructions, I will do so by explicitly stating them. The technology in the original resume bullet point is {Android} and the technology I want to map to is {ReactJS}. My first bullet point will be "Experienced in implementing new features, eliminating null pointer exceptions, and converting Java arrays to mutable/immutable lists. "
 
 ---
 
