@@ -226,6 +226,7 @@
 - [🤖 Design a 'Sponsor Hall of...](#design-a-sponsor-hall-of-)
 - [✍️ Write a paragraph that shows...](#write-a-paragraph-that-shows-)
 - [✍️ Write a personal story about...](#write-a-personal-story-about-)
+- [🤖 Create a template for monthly...](#create-a-template-for-monthly-)
 
 ---
 
@@ -1928,6 +1929,13 @@
 **Category:** `Writing & Language`
 
 > Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].
+
+---
+
+## 🤖 Create a template for monthly...
+**Category:** `General / AI Persona`
+
+> Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].
 
 ---
 
