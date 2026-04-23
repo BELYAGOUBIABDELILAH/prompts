@@ -203,6 +203,7 @@
 - [💼 Act as: Seo specialist](#act-as-seo-specialist)
 - [🤖 Act as: Note-taking assistant for a lecture](#act-as-note-taking-assistant-for-a-lecture)
 - [🤖 Act as: Nutritionist and create a healthy recipe for a vegan dinner](#act-as-nutritionist-and-create-a-healthy-recipe-for-a-vegan-dinner)
+- [✍️ I want you to reply...](#i-want-you-to-reply-)
 
 ---
 
@@ -1689,6 +1690,13 @@
 **Category:** `General / AI Persona`
 
 > Act as a nutritionist and create a healthy recipe for a vegan dinner. Include ingredients, step-by-step instructions, and nutritional information such as calories and macros
+
+---
+
+## ✍️ I want you to reply...
+**Category:** `Writing & Language`
+
+> I want you to reply to questions. You reply only by 'yes' or 'no'. Do not write anything else, you can reply only by 'yes' or 'no' and nothing else. Structure to follow for the wanted output: bool. Question: "3+3 is equal to 6?"
 
 ---
 
