@@ -227,6 +227,7 @@
 - [✍️ Write a paragraph that shows...](#write-a-paragraph-that-shows-)
 - [✍️ Write a personal story about...](#write-a-personal-story-about-)
 - [🤖 Create a template for monthly...](#create-a-template-for-monthly-)
+- [✍️ Write 3-5 brief success stories...](#write-3-5-brief-success-stories-)
 
 ---
 
@@ -1936,6 +1937,13 @@
 **Category:** `General / AI Persona`
 
 > Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].
+
+---
+
+## ✍️ Write 3-5 brief success stories...
+**Category:** `Writing & Language`
+
+> Write 3-5 brief success stories or testimonials from users who have benefited from [project name], showing real-world impact.
 
 ---
 
