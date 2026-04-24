@@ -239,6 +239,7 @@
 - [🤖 Create a special $1-2 student...](#create-a-special-1-2-student-)
 - [🤖 Suggest ideas for pricing tiers...](#suggest-ideas-for-pricing-tiers-)
 - [🤖 Draft a brief 'Project Spotlight'...](#draft-a-brief-project-spotlight-)
+- [🤖 List ways I can recognize...](#list-ways-i-can-recognize-)
 
 ---
 
@@ -2032,6 +2033,13 @@
 **Category:** `General / AI Persona`
 
 > Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].
+
+---
+
+## 🤖 List ways I can recognize...
+**Category:** `General / AI Persona`
+
+> List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).
 
 ---
 
