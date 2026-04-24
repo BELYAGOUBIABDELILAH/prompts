@@ -231,6 +231,7 @@
 - [✍️ Write an announcement for my...](#write-an-announcement-for-my-)
 - [✍️ Write a GitHub Sponsors bio...](#write-a-github-sponsors-bio-)
 - [🤖 Explain how sponsorship would allow...](#explain-how-sponsorship-would-allow-)
+- [🤖 Design enterprise-level sponsorship tiers ($500,...](#design-enterprise-level-sponsorship-tiers-500-)
 
 ---
 
@@ -1968,6 +1969,13 @@
 **Category:** `General / AI Persona`
 
 > Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.
+
+---
+
+## 🤖 Design enterprise-level sponsorship tiers ($500,...
+**Category:** `General / AI Persona`
+
+> Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].
 
 ---
 
