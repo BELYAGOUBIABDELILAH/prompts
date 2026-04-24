@@ -243,6 +243,7 @@
 - [✍️ Write a compelling vision statement...](#write-a-compelling-vision-statement-)
 - [🤖 Summarize my top three repositories...](#summarize-my-top-three-repositories-)
 - [💻 Develop a first-person shooter game...](#develop-a-first-person-shooter-game-)
+- [💻 Develop a comprehensive interactive quiz...](#develop-a-comprehensive-interactive-quiz-)
 
 ---
 
@@ -2064,6 +2065,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a first-person shooter game using Three.js and JavaScript. Create detailed weapon models with realistic animations and effects. Implement precise hit detection and damage systems. Design multiple game levels with various environments and objectives. Add AI enemies with pathfinding and combat behaviors. Create particle effects for muzzle flashes, impacts, and explosions. Implement multiplayer mode with team-based objectives. Include weapon pickup and inventory system. Add sound effects for weapons, footsteps, and environment. Create detailed scoring and statistics tracking. Implement replay system for kill cams and match highlights.
+
+---
+
+## 💻 Develop a comprehensive interactive quiz...
+**Category:** `Coding & Tech`
+
+> Develop a comprehensive interactive quiz application with HTML5, CSS3 and JavaScript. Create an engaging UI with smooth transitions between questions. Support multiple question types including multiple choice, true/false, matching, and short answer with automatic grading. Implement configurable timers per question with visual countdown. Add detailed score tracking with points based on difficulty and response time. Show a dynamic progress bar indicating completion percentage. Include a review mode to see correct/incorrect answers with explanations after quiz completion. Implement a persistent leaderboard using localStorage. Organize questions into categories with custom icons and descriptions. Support multiple difficulty levels affecting scoring and time limits. Generate a detailed results summary with performance analytics and improvement suggestions. Add social sharing functionality for results with customizable messages.
 
 ---
 
