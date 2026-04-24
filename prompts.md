@@ -248,6 +248,7 @@
 - [💻 Build a professional-grade color tool...](#build-a-professional-grade-color-tool-)
 - [💻 Create a comprehensive secure password...](#create-a-comprehensive-secure-password-)
 - [💻 Develop a web-based music player...](#develop-a-web-based-music-player-)
+- [💻 Create an interactive drawing application...](#create-an-interactive-drawing-application-)
 
 ---
 
@@ -2104,6 +2105,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a web-based music player using HTML5, CSS3, and JavaScript with the Web Audio API. Create a modern interface with album art display and visualizations. Implement playlist management with drag-and-drop reordering. Add audio controls including play/pause, skip, seek, volume, and playback speed. Include shuffle and repeat modes with visual indicators. Support multiple audio formats with fallbacks. Implement a 10-band equalizer with presets. Add metadata extraction and display from audio files. Create a responsive design that works on all devices. Include keyboard shortcuts for playback control. Support background playback with media session API integration.
+
+---
+
+## 💻 Create an interactive drawing application...
+**Category:** `Coding & Tech`
+
+> Create an interactive drawing application using HTML5 Canvas, CSS3, and JavaScript. Build a clean interface with intuitive tool selection. Implement multiple drawing tools including brush, pencil, shapes, text, and eraser. Add color selection with recent colors, color picker, and palettes. Include layer support with opacity and blend mode options. Implement undo/redo functionality with history states. Add image import and export in multiple formats (PNG, JPG, SVG). Support canvas resizing and rotation. Implement zoom and pan navigation. Add selection tools with move, resize, and transform capabilities. Include keyboard shortcuts for common actions.
 
 ---
 
