@@ -240,6 +240,7 @@
 - [🤖 Suggest ideas for pricing tiers...](#suggest-ideas-for-pricing-tiers-)
 - [🤖 Draft a brief 'Project Spotlight'...](#draft-a-brief-project-spotlight-)
 - [🤖 List ways I can recognize...](#list-ways-i-can-recognize-)
+- [✍️ Write a compelling vision statement...](#write-a-compelling-vision-statement-)
 
 ---
 
@@ -2040,6 +2041,13 @@
 **Category:** `General / AI Persona`
 
 > List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).
+
+---
+
+## ✍️ Write a compelling vision statement...
+**Category:** `Writing & Language`
+
+> Write a compelling vision statement about where I see [project/work] going in the next 2-3 years and how sponsors can be part of that journey.
 
 ---
 
