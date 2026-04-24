@@ -252,6 +252,7 @@
 - [💻 Develop a comprehensive currency converter...](#develop-a-comprehensive-currency-converter-)
 - [💻 Create a recipe finder application...](#create-a-recipe-finder-application-)
 - [💻 Develop a comprehensive budget tracking...](#develop-a-comprehensive-budget-tracking-)
+- [💻 Build a comprehensive weather dashboard...](#build-a-comprehensive-weather-dashboard-)
 
 ---
 
@@ -2136,6 +2137,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a comprehensive budget tracking application using HTML5, CSS3, and JavaScript. Create an intuitive dashboard showing income, expenses, savings, and budget status. Implement transaction management with categories, tags, and recurring transactions. Add interactive charts and graphs for expense analysis by category and time period. Include budget goal setting with progress tracking and alerts. Support multiple accounts and transfer between accounts. Implement receipt scanning and storage using the device camera. Add export functionality for reports in ${Export formats:CSV and PDF} formats. Create a responsive design with mobile-first approach. Include data backup and restore functionality. Add forecasting features to predict future financial status based on current trends.
+
+---
+
+## 💻 Build a comprehensive weather dashboard...
+**Category:** `Coding & Tech`
+
+> Build a comprehensive weather dashboard using HTML5, CSS3, JavaScript and the OpenWeatherMap API. Create a visually appealing interface showing current weather conditions with appropriate icons and background changes based on weather/time of day. Display a detailed 5-day forecast with expandable hourly breakdown for each day. Implement location search with autocomplete and history, supporting both city names and coordinates. Add geolocation support to automatically detect user's location. Include toggles for temperature units (°C/°F) and time formats. Display severe weather alerts with priority highlighting. Show detailed meteorological data including wind speed/direction, humidity, pressure, UV index, and air quality when available. Include sunrise/sunset times with visual indicators. Create a fully responsive layout using CSS Grid that adapts to all device sizes with appropriate information density.
 
 ---
 
