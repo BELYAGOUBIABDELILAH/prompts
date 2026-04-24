@@ -236,6 +236,7 @@
 - [🤖 Create a section for my...](#create-a-section-for-my-)
 - [🤖 Create a compelling data-driven section...](#create-a-compelling-data-driven-section-)
 - [✍️ Write descriptions for three GitHub...](#write-descriptions-for-three-github-)
+- [🤖 Create a special $1-2 student...](#create-a-special-1-2-student-)
 
 ---
 
@@ -2008,6 +2009,13 @@
 **Category:** `Writing & Language`
 
 > Write descriptions for three GitHub Sponsors tiers ($5, $25, $100) that offer increasing value and recognition to supporters.
+
+---
+
+## 🤖 Create a special $1-2 student...
+**Category:** `General / AI Persona`
+
+> Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.
 
 ---
 
