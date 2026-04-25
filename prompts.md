@@ -289,6 +289,7 @@
 - [🤖 "When I give you a...](#-when-i-give-you-a-)
 - [✍️ Based on the source image,...](#based-on-the-source-image-)
 - [✍️ Design a "floating miniature island"...](#design-a-floating-miniature-island-)
+- [🤖 "Explore how [topic] connects with...](#-explore-how-topic-connects-with-)
 
 ---
 
@@ -2487,6 +2488,13 @@
 **Category:** `Writing & Language`
 
 > Design a "floating miniature island" shaped like the ${city:denizli} map/silhouette, gliding above white clouds. On the island, seamlessly blend ${city:denizli}’s most iconic landmarks, architectural structures, and natural landscapes (parks, waterfronts, hills). Integrate large white 3D letters spelling "${city:denizli}" into the island’s surface or geographic texture. Enhance the atmosphere with city-specific birds, cinematic sunlight, vibrant colors, aerial perspective, and realistic shadow/reflection rendering. Ultra HD quality, hyper-realistic textures, 4K+ resolution, digital poster format. Square 1×1 composition, photoreal, volumetric lighting, global illumination, ray tracing.
+
+---
+
+## 🤖 "Explore how [topic] connects with...
+**Category:** `General / AI Persona`
+
+> "Explore how [topic] connects with other fields or disciplines. Provide examples of cross-disciplinary applications, collaborative opportunities, and how integrating insights from different areas can enhance understanding or innovation in [topic]."
 
 ---
 
