@@ -286,6 +286,7 @@
 - [🌍 3D chibi-style miniature concept store...](#3d-chibi-style-miniature-concept-store-)
 - [✍️ Rewrite the user’s text so...](#rewrite-the-user-s-text-so-)
 - [🤖 Create a hyper-realistic 3D diorama-style...](#create-a-hyper-realistic-3d-diorama-style-)
+- [🤖 "When I give you a...](#-when-i-give-you-a-)
 
 ---
 
@@ -2461,6 +2462,15 @@
 
 > Create a hyper-realistic 3D diorama-style model of ${Landmark Name:EIFFEL TOWER}. The model should appear as a miniature, set on a raised cross-section of earth that reveals soil and rock layers beneath a lush grassy surface. The structure must be highly detailed and proportionally accurate, surrounded by tiny realistic elements like region-appropriate street lamps, native trees, shrubs, water features like small fountains, and historically or culturally fitting pathways. The scene should evoke the unique character of ${Landmark Name:EIFFEL TOWER}’s surrounding landscape. The environment must include a soft white background to draw full attention to the model. Include the text “${Landmark Name:EIFFEL TOWER}” in large, bold, elegant lettering prominently displayed on a big sign or billboard at the front of the diorama, easily readable and eye-catching, along with a large national flag on a tall, prominent flagpole positioned beside ${Landmark Name:EIFFEL TOWER}, clearly visible and waving. 1080x1080 dimension
 > 
+
+---
+
+## 🤖 "When I give you a...
+**Category:** `General / AI Persona`
+
+> "When I give you a movie quote, never reply with text or a prompt. Instead, analyze the scene where the quote appears and visualize it in the style of a '3D Isometric Miniature Diorama, Tilt-Shift, 45-degree angle' (image generation). Provide only the image."
+> 
+> Quote = "You shall not pass!"
 
 ---
 
