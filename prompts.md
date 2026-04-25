@@ -291,6 +291,7 @@
 - [✍️ Design a "floating miniature island"...](#design-a-floating-miniature-island-)
 - [🤖 "Explore how [topic] connects with...](#-explore-how-topic-connects-with-)
 - [🤖 "Curate a collection of expert...](#-curate-a-collection-of-expert-)
+- [🤖 A botanical diagram of a...](#a-botanical-diagram-of-a-)
 
 ---
 
@@ -2504,6 +2505,13 @@
 
 > "Curate a collection of expert tips, advanced learning strategies, and high-quality resources (such as books, courses, tools, or communities) for mastering [topic] efficiently. Emphasize credible sources and actionable advice to accelerate expertise."
 > 
+
+---
+
+## 🤖 A botanical diagram of a...
+**Category:** `General / AI Persona`
+
+> A botanical diagram of a ${subject}, illustrated in the style of vintage scientific journals. Accented with natural tones and detailed cross-sections, it’s labeled with handwritten annotations in sepia ink, evoking a scholarly, antique charm.
 
 ---
 
