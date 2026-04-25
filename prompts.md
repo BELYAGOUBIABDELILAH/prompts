@@ -266,6 +266,7 @@
 - [💻 Build an interactive typing speed...](#build-an-interactive-typing-speed-)
 - [💻 Develop a memory matching card...](#develop-a-memory-matching-card-)
 - [🌍 Develop a memory profiling tool...](#develop-a-memory-profiling-tool-)
+- [🤖 Build a high-performance file system...](#build-a-high-performance-file-system-)
 
 ---
 
@@ -2248,6 +2249,13 @@
 **Category:** `Travel & Lifestyle`
 
 > Develop a memory profiling tool in C for analyzing process memory usage. Implement process attachment with minimal performance impact. Add heap analysis with allocation tracking. Include memory leak detection with stack traces. Implement memory usage visualization with detailed statistics. Add custom allocator hooking for detailed tracking. Include report generation in multiple formats. Implement filtering options for noise reduction. Add comparison functionality between snapshots. Include command-line interface with interactive mode. Implement signal handling for clean detachment.
+
+---
+
+## 🤖 Build a high-performance file system...
+**Category:** `General / AI Persona`
+
+> Build a high-performance file system indexer and search tool in Go. Implement recursive directory traversal with configurable depth. Add file metadata extraction including size, dates, and permissions. Include content indexing with optional full-text search. Implement advanced query syntax with boolean operators and wildcards. Add incremental indexing for performance. Include export functionality in JSON and CSV formats. Implement search result highlighting. Add duplicate file detection using checksums. Include performance statistics and progress reporting. Implement concurrent processing for multi-core utilization.
 
 ---
 
