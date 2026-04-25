@@ -272,6 +272,7 @@
 - [💻 Build an immersive 3D space...](#build-an-immersive-3d-space-)
 - [💻 Create a command-line network packet...](#create-a-command-line-network-packet-)
 - [💻 Create a web-based PDF viewer...](#create-a-web-based-pdf-viewer-)
+- [💻 Build a comprehensive health metrics...](#build-a-comprehensive-health-metrics-)
 
 ---
 
@@ -2296,6 +2297,13 @@
 **Category:** `Coding & Tech`
 
 > Create a web-based PDF viewer using HTML5, CSS3, JavaScript and PDF.js. Build a clean interface with intuitive navigation controls. Implement page navigation with thumbnails and outline view. Add text search with result highlighting. Include zoom and fit-to-width/height controls. Implement text selection and copying. Add annotation tools including highlights, notes, and drawing. Support document rotation and presentation mode. Include print functionality with options. Create a responsive design that works on all devices. Add document properties and metadata display.
+
+---
+
+## 💻 Build a comprehensive health metrics...
+**Category:** `Coding & Tech`
+
+> Build a comprehensive health metrics calculator with HTML5, CSS3 and JavaScript based on medical standards. Create a clean, accessible interface with step-by-step input forms. Implement accurate BMI calculation with visual classification scale and health risk assessment. Add body fat percentage calculator using multiple methods (Navy, Jackson-Pollock, BIA simulation). Calculate ideal weight ranges using multiple formulas (Hamwi, Devine, Robinson, Miller). Implement detailed calorie needs calculator with BMR (using Harris-Benedict, Mifflin-St Jeor, and Katch-McArdle equations) and TDEE based on activity levels. Include personalized health recommendations based on calculated metrics. Support both metric and imperial units with seamless conversion. Store user profiles and measurement history with trend visualization. Generate interactive progress charts showing changes over time. Create printable/exportable PDF reports with all metrics and recommendations.
 
 ---
 
