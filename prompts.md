@@ -288,6 +288,7 @@
 - [🤖 Create a hyper-realistic 3D diorama-style...](#create-a-hyper-realistic-3d-diorama-style-)
 - [🤖 "When I give you a...](#-when-i-give-you-a-)
 - [✍️ Based on the source image,...](#based-on-the-source-image-)
+- [✍️ Design a "floating miniature island"...](#design-a-floating-miniature-island-)
 
 ---
 
@@ -2479,6 +2480,13 @@
 **Category:** `Writing & Language`
 
 > Based on the source image, overlay an architect's busy working process onto the entire scene. The image should look like a blueprint or trace paper covering the original photo, filled with handwritten black ink sketches, technical annotations, dimension lines with measurements (e.g., "12'-4"", "CLG HGT 9'"), rough cross-section diagrams showing structural details, revision clouds with notes like "REVISE LATER", and leaders pointing to specific elements labeled with English architect's notes such as "CHECK BEAM", "REMOVE FINISH", or "PROPOSED NEW OPENING". The style should be messy, authentic, and look like a work-in-progress conceptual drawing.
+
+---
+
+## ✍️ Design a "floating miniature island"...
+**Category:** `Writing & Language`
+
+> Design a "floating miniature island" shaped like the ${city:denizli} map/silhouette, gliding above white clouds. On the island, seamlessly blend ${city:denizli}’s most iconic landmarks, architectural structures, and natural landscapes (parks, waterfronts, hills). Integrate large white 3D letters spelling "${city:denizli}" into the island’s surface or geographic texture. Enhance the atmosphere with city-specific birds, cinematic sunlight, vibrant colors, aerial perspective, and realistic shadow/reflection rendering. Ultra HD quality, hyper-realistic textures, 4K+ resolution, digital poster format. Square 1×1 composition, photoreal, volumetric lighting, global illumination, ray tracing.
 
 ---
 
