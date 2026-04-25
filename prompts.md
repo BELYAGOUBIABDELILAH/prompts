@@ -268,6 +268,7 @@
 - [🌍 Develop a memory profiling tool...](#develop-a-memory-profiling-tool-)
 - [🤖 Build a high-performance file system...](#build-a-high-performance-file-system-)
 - [💻 Create an exciting 3D racing...](#create-an-exciting-3d-racing-)
+- [💻 Create a high-performance HTTP benchmarking...](#create-a-high-performance-http-benchmarking-)
 
 ---
 
@@ -2264,6 +2265,13 @@
 **Category:** `Coding & Tech`
 
 > Create an exciting 3D racing game using Three.js and JavaScript. Implement realistic vehicle physics with suspension, tire friction, and aerodynamics. Create detailed car models with customizable paint and upgrades. Design multiple race tracks with varying terrain and obstacles. Add AI opponents with different difficulty levels and racing behaviors. Implement a split-screen multiplayer mode for local racing. Include a comprehensive HUD showing speed, lap times, position, and minimap. Create particle effects for tire smoke, engine effects, and weather. Add dynamic day/night cycle with realistic lighting. Implement race modes including time trial, championship, and elimination. Include replay system with multiple camera angles.
+
+---
+
+## 💻 Create a high-performance HTTP benchmarking...
+**Category:** `Coding & Tech`
+
+> Create a high-performance HTTP benchmarking tool in Go. Implement concurrent request generation with configurable thread count. Add detailed statistics including latency, throughput, and error rates. Include support for HTTP/1.1, HTTP/2, and HTTP/3. Implement custom header and cookie management. Add request templating for dynamic content. Include response validation with regex and status code checking. Implement TLS configuration with certificate validation options. Add load profile configuration with ramp-up and steady-state phases. Include detailed reporting with percentiles and histograms. Implement distributed testing mode for high-load scenarios.
 
 ---
 
