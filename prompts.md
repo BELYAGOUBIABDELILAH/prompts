@@ -290,6 +290,7 @@
 - [✍️ Based on the source image,...](#based-on-the-source-image-)
 - [✍️ Design a "floating miniature island"...](#design-a-floating-miniature-island-)
 - [🤖 "Explore how [topic] connects with...](#-explore-how-topic-connects-with-)
+- [🤖 "Curate a collection of expert...](#-curate-a-collection-of-expert-)
 
 ---
 
@@ -2495,6 +2496,14 @@
 **Category:** `General / AI Persona`
 
 > "Explore how [topic] connects with other fields or disciplines. Provide examples of cross-disciplinary applications, collaborative opportunities, and how integrating insights from different areas can enhance understanding or innovation in [topic]."
+
+---
+
+## 🤖 "Curate a collection of expert...
+**Category:** `General / AI Persona`
+
+> "Curate a collection of expert tips, advanced learning strategies, and high-quality resources (such as books, courses, tools, or communities) for mastering [topic] efficiently. Emphasize credible sources and actionable advice to accelerate expertise."
+> 
 
 ---
 
