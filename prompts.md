@@ -280,6 +280,7 @@
 - [💻 Create a comprehensive scientific calculator...](#create-a-comprehensive-scientific-calculator-)
 - [🌍 { "meta": { "description": "Structured...](#-meta-description-structured-)
 - [🤖 High-angle top-down view of a...](#high-angle-top-down-view-of-a-)
+- [🤖 Using the uploaded product image...](#using-the-uploaded-product-image-)
 
 ---
 
@@ -2395,6 +2396,13 @@
 **Category:** `General / AI Persona`
 
 > High-angle top-down view of a dimly lit abandoned courtyard, cracked concrete ground, scattered old markings and faded impact dents, long eerie character shadows cast off-frame, no violence depicted, dark Teal palette with a strong golden beam, thick outlines, 2D animated cartoon look, flat shading, extreme contrast, atmospheric tension.
+
+---
+
+## 🤖 Using the uploaded product image...
+**Category:** `General / AI Persona`
+
+> Using the uploaded product image of ${Product Name:MacBook Pro}, create an engaging lifestyle scene showing realistic usage in ${Lifestyle Scenario:Office}. Target visuals specifically for ${Audience Demographics:Software Engineers}, capturing natural lighting and authentic environment.
 
 ---
 
