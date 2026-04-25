@@ -1,4 +1,4 @@
-# ⚡ Daily Prompt Drop
+# ⚡ Daily Prompt Drop 
 
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Daily-blue?style=for-the-badge)
 ![Prompts](https://img.shields.io/badge/Prompts-High_Quality-brightgreen?style=for-the-badge)
