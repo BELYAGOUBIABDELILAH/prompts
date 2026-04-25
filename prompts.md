@@ -274,6 +274,7 @@
 - [💻 Create a web-based PDF viewer...](#create-a-web-based-pdf-viewer-)
 - [💻 Build a comprehensive health metrics...](#build-a-comprehensive-health-metrics-)
 - [💻 Build a feature-rich markdown notes...](#build-a-feature-rich-markdown-notes-)
+- [💻 Create a comprehensive pomodoro timer...](#create-a-comprehensive-pomodoro-timer-)
 
 ---
 
@@ -2312,6 +2313,13 @@
 **Category:** `Coding & Tech`
 
 > Build a feature-rich markdown notes application with HTML5, CSS3 and JavaScript. Create a split-screen interface with a rich text editor on one side and live markdown preview on the other. Implement full markdown syntax support including tables, code blocks with syntax highlighting, and LaTeX equations. Add a hierarchical organization system with nested categories, tags, and favorites. Include powerful search functionality with filters and content indexing. Use localStorage with optional export/import for data backup. Support exporting notes to PDF, HTML, and markdown formats. Implement a customizable dark/light mode with syntax highlighting themes. Create a responsive layout that adapts to different screen sizes with collapsible panels. Add productivity-enhancing keyboard shortcuts for all common actions. Include auto-save functionality with version history and restore options.
+
+---
+
+## 💻 Create a comprehensive pomodoro timer...
+**Category:** `Coding & Tech`
+
+> Create a comprehensive pomodoro timer app using HTML5, CSS3 and JavaScript following the time management technique. Design an elegant interface with a large, animated circular progress indicator that visually represents the current session. Allow customization of work intervals (default ${Work Intervals:25min}), short breaks (default ${Short Breaks:5min}), and long breaks (default ${Long Breaks:15min}). Include a task list integration where users can associate pomodoro sessions with specific tasks. Add configurable sound notifications for interval transitions with volume control. Implement detailed statistics tracking daily/weekly productivity with visual charts. Use localStorage to persist settings and history between sessions. Make the app installable as a PWA with offline support and notifications. Add keyboard shortcuts for quick timer control (start/pause/reset). Include multiple theme options with customizable colors and fonts. Add a focus mode that blocks distractions during work intervals.
 
 ---
 
