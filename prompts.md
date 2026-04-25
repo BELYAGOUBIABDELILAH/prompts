@@ -271,6 +271,7 @@
 - [💻 Create a high-performance HTTP benchmarking...](#create-a-high-performance-http-benchmarking-)
 - [💻 Build an immersive 3D space...](#build-an-immersive-3d-space-)
 - [💻 Create a command-line network packet...](#create-a-command-line-network-packet-)
+- [💻 Create a web-based PDF viewer...](#create-a-web-based-pdf-viewer-)
 
 ---
 
@@ -2288,6 +2289,13 @@
 **Category:** `Coding & Tech`
 
 > Create a command-line network packet analyzer in C using libpcap. Implement packet capture from network interfaces with filtering options. Add protocol analysis for common protocols (TCP, UDP, HTTP, DNS, etc.). Include traffic statistics with bandwidth usage and connection counts. Implement packet decoding with detailed header information. Add export functionality in PCAP and CSV formats. Include alert system for suspicious traffic patterns. Implement connection tracking with state information. Add geolocation lookup for IP addresses. Include command-line arguments for all options with sensible defaults. Implement color-coded output for better readability.
+
+---
+
+## 💻 Create a web-based PDF viewer...
+**Category:** `Coding & Tech`
+
+> Create a web-based PDF viewer using HTML5, CSS3, JavaScript and PDF.js. Build a clean interface with intuitive navigation controls. Implement page navigation with thumbnails and outline view. Add text search with result highlighting. Include zoom and fit-to-width/height controls. Implement text selection and copying. Add annotation tools including highlights, notes, and drawing. Support document rotation and presentation mode. Include print functionality with options. Create a responsive design that works on all devices. Add document properties and metadata display.
 
 ---
 
