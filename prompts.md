@@ -279,6 +279,7 @@
 - [💻 Create a responsive todo app...](#create-a-responsive-todo-app-)
 - [💻 Create a comprehensive scientific calculator...](#create-a-comprehensive-scientific-calculator-)
 - [🌍 { "meta": { "description": "Structured...](#-meta-description-structured-)
+- [🤖 High-angle top-down view of a...](#high-angle-top-down-view-of-a-)
 
 ---
 
@@ -2387,6 +2388,13 @@
 >     }
 >   }
 > }
+
+---
+
+## 🤖 High-angle top-down view of a...
+**Category:** `General / AI Persona`
+
+> High-angle top-down view of a dimly lit abandoned courtyard, cracked concrete ground, scattered old markings and faded impact dents, long eerie character shadows cast off-frame, no violence depicted, dark Teal palette with a strong golden beam, thick outlines, 2D animated cartoon look, flat shading, extreme contrast, atmospheric tension.
 
 ---
 
