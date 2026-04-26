@@ -304,6 +304,7 @@
 - [🌍 Hyper-realistic portrait of a ${gender:man}...](#hyper-realistic-portrait-of-a-gender-man-)
 - [🤖 What is the memory contents...](#what-is-the-memory-contents-)
 - [🤖 { "name": "My Workflow", "steps":...](#-name-my-workflow-steps-)
+- [🌍 { "meta": { "model": "nano-banana-pro",...](#-meta-model-nano-banana-pro-)
 
 ---
 
@@ -2919,6 +2920,37 @@
 >   }
 > }
 > 
+
+---
+
+## 🌍 { "meta": { "model": "nano-banana-pro",...
+**Category:** `Travel & Lifestyle`
+
+> {
+>   "meta": {
+>     "model": "nano-banana-pro",
+>     "mode": "thinking",
+>     "use_search_grounding": true,
+>     "language": "tr"
+>   },
+>   "input": {
+>     "location": "${Location: Location}",
+>     "date": "${Date: YYYY-MM-DD}",
+>     "aspectRatio": "${Aspect Ratio: 16:9 | 4:3 | 1:1 | 9:16}",
+>     "timeOfDay": "${Time of the Day}",
+>     "mood": "${Mood: epic | solemn | celebratory | tense | melancholic}"
+>   },
+>   "prompt": {
+>     "positive": "Konum: ${Location: Location}\nTarih: ${Date: YYYY-MM-DD}\n\nÖnce güvenilir kaynaklarla arama yap ve bu tarihte bu konumda gerçekleşen en önemli tarihsel olayı belirle. Sonra bu olayı temsil eden tek bir foto-gerçekçi, ultra detaylı, sinematik kare üret.\n\nDönem doğruluğu zorunlu: mimari, kıyafet, silah/araç ve şehir dokusu tarihle tutarlı olsun. Modern hiçbir obje, bina, araç veya tabela görünmesin. Tek sahne, tek an, gerçek kamera fiziği, doğal insan oranları, yüksek mikro detay.",
+>     "negative": "modern buildings, cars, asphalt, neon, smartphones, wrong era clothing/armor, fantasy, anime, cartoon, text overlay, blurry, low-res, extra limbs"
+>   },
+>   "render": {
+>     "quality": "ultra",
+>     "resolution": "4k"
+>   },
+>   "name": "My Workflow",
+>   "steps": []
+> }
 
 ---
 
