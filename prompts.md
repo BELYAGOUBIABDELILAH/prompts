@@ -311,6 +311,7 @@
 - [💻 (Deep Investigation Agent) ## Triggers...](#-deep-investigation-agent-triggers-)
 - [🤖 A double exposure portrait set...](#a-double-exposure-portrait-set-)
 - [🌍 A single photograph of ${location:Galata...](#a-single-photograph-of-location-galata-)
+- [🌍 Generate a whimsical miniature world...](#generate-a-whimsical-miniature-world-)
 
 ---
 
@@ -3366,6 +3367,17 @@
 **Category:** `Travel & Lifestyle`
 
 > A single photograph of ${location:Galata Tower, Istanbul} where the frame is divided into organic, flowing sections, each showing a different era: ${era1:1890s sepia Ottoman period}, ${era2:1960s faded color}, ${era3:present day digital clarity}. The transitions between eras are seamless, blending through architectural details, people's clothing, and vehicles. Same camera angle, same perspective, different times bleeding into each other. Street level view. Photorealistic for each era's authentic photography style.
+
+---
+
+## 🌍 Generate a whimsical miniature world...
+**Category:** `Travel & Lifestyle`
+
+> Generate a whimsical miniature world featuring ${landmark_name} crafted entirely from colorful modeling clay. Every element (buildings, trees, waterways, and urban features) should appear hand-sculpted with visible fingerprints and organic clay textures. Use a playful, childlike style with vibrant colors: bright azure sky, puffy cream clouds, emerald trees, and buildings in warm yellows, oranges, reds, and blues. The handmade quality should be evident in every surface and gentle curve. Capture from a wide perspective showcasing the entire miniature landscape in a harmonious, joyful composition.
+> 
+> At the top-center, add the city name ${city_name} in a clean, bold, friendly rounded font that matches the playful clay aesthetic. The text should be clearly readable and high-contrast against the sky, with subtle depth as if it is also made from clay (slight 3D clay lettering), but keep it simple and not overly detailed.
+> 
+> Include no other text, words, or signage anywhere else in the scene. Only sculptural clay elements should define the location through recognizable architectural features. 1080x1080 dimension.
 
 ---
 
