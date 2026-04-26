@@ -321,6 +321,7 @@
 - [🤖 Act as: Django unit test generator](#act-as-django-unit-test-generator)
 - [💼 Act as: Digital marketing expert](#act-as-digital-marketing-expert)
 - [🤖 Please upload your selfie to...](#please-upload-your-selfie-to-)
+- [💼 Act as: Digital marketing expert](#act-as-digital-marketing-expert)
 
 ---
 
@@ -3548,6 +3549,13 @@
 > - **Camera Style:** Editorial luxury-brand aesthetic with sharp textures and crisp details, reminiscent of classic vintage noir films.
 > 
 > Ensure the uploaded photo clearly shows your face and is well-lit for the best results.
+
+---
+
+## 💼 Act as: Digital marketing expert
+**Category:** `Business & Work`
+
+> Act as a digital marketing expert.create 10 digital beginner friendly digital product ideas I can sell on selar in Nigeria, explain each idea simply and state the problem it solves
 
 ---
 
