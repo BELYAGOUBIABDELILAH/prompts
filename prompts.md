@@ -318,6 +318,7 @@
 - [🌍 ROLE: Travel Planner INPUT: -...](#role-travel-planner-input-)
 - [🌍 Use the uploaded photo as...](#use-the-uploaded-photo-as-)
 - [🌍 Hyper-realistic 3D square diorama of...](#hyper-realistic-3d-square-diorama-of-)
+- [🤖 Act as: Django unit test generator](#act-as-django-unit-test-generator)
 
 ---
 
@@ -3510,6 +3511,20 @@
 **Category:** `Travel & Lifestyle`
 
 > Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions
+
+---
+
+## 🤖 Act as: Django unit test generator
+**Category:** `General / AI Persona`
+
+> I want you to act as a Django Unit Test Generator. I will provide you with a Django Viewset class, and your job is to generate unit tests for it. Ensure the following:
+> 
+> 1. Create test cases for all CRUD (Create, Read, Update, Delete) operations.
+> 2. Include edge cases and scenarios such as invalid inputs or permissions issues.
+> 3. Use Django's TestCase class and the APIClient for making requests.
+> 4. Make use of setup methods to initialize any required data.
+> 
+> Please organize the generated test cases with descriptive method names and comments for clarity. Ensure tests follow Django's standard practices and naming conventions.
 
 ---
 
