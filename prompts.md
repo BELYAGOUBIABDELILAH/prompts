@@ -320,6 +320,7 @@
 - [🌍 Hyper-realistic 3D square diorama of...](#hyper-realistic-3d-square-diorama-of-)
 - [🤖 Act as: Django unit test generator](#act-as-django-unit-test-generator)
 - [💼 Act as: Digital marketing expert](#act-as-digital-marketing-expert)
+- [🤖 Please upload your selfie to...](#please-upload-your-selfie-to-)
 
 ---
 
@@ -3533,6 +3534,20 @@
 **Category:** `Business & Work`
 
 > Act as a digital marketing expert.create 10 digital beginner friendly digital product ideas I can sell on selar in Nigeria, explain each idea simply and state the problem it solves
+
+---
+
+## 🤖 Please upload your selfie to...
+**Category:** `General / AI Persona`
+
+> Please upload your selfie to generate an ultra-realistic black-and-white portrait. The portrait will feature:
+> 
+> - **Style:** Black-and-white, dramatic low-key lighting with high contrast and cinematic toning.
+> - **Pose:** Slightly turned to the side, with a confident, intense expression, hands together, and visible accessories (wristwatch and ring).
+> - **Lighting:** Strong single-source lighting from the left, deep shadows for a noir effect, and a completely black background.
+> - **Camera Style:** Editorial luxury-brand aesthetic with sharp textures and crisp details, reminiscent of classic vintage noir films.
+> 
+> Ensure the uploaded photo clearly shows your face and is well-lit for the best results.
 
 ---
 
